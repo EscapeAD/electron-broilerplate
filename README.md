@@ -23,3 +23,9 @@ Ejecting CRA is something you really want to avoid, because you will no longer b
 yarn electron-pack
 ```
 You will see the packaged artifacts under the dist directory.
+
+
+### Note
+current dev
+* **Node** 10.16.3 LTS
+* **Yarn** 1.19.1
